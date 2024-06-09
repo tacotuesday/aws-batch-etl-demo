@@ -6,6 +6,7 @@ This project demonstrates the creation of a data pipeline using AWS services, in
 ## Milestone 1: Provision Resources using CloudFormation
 - Provisioned an S3 data lake bucket, Aurora MySQL instance, and a Step Function using CloudFormation.
 - Focused on deploying these resources as a stack to understand IaC and AWS resource management.
+
 ## Milestone 2: Create a Pipeline to ETL Data from MySQL to S3
 - Created a batch processing pipeline with a Step Function orchestrating a Lambda function.
 - Exported data from MySQL to S3, demonstrating the ETL process.
@@ -23,7 +24,6 @@ This project demonstrates the creation of a data pipeline using AWS services, in
 ## Key Learnings
 - The importance of detailed architecture and permissions management.
 - Practical experience with various AWS services and IaC.
-[Insert screenshots at appropriate milestones]
 
 ## Future Goals
 - Develop expertise in pipeline design and event-driven architectures.
