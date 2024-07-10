@@ -1,7 +1,7 @@
 # Building a Serverless Data Pipeline with AWS for Batch ETL Processing
 
 ## Project Overview
-This project demonstrates the creation of a data pipeline using AWS services, including CloudFormation, Aurora MySQL, Step Functions, Lambda, S3, Athena, and QuickSight. The primary goal was to learn the fundamentals of setting up and managing a data pipeline on AWS.
+This project demonstrates the creation of a data pipeline using AWS services, including CloudFormation, Aurora MySQL, Step Functions, Lambda, S3, Athena, and QuickSight. The primary goal was to learn the fundamentals of setting up and managing a data pipeline on AWS. To read more about this project, check out my blog post [Building My First AWS Batch Data Pipeline: A Hands-On Journey with CloudFormation, Step Functions, and More](https://tacotuesday.github.io/projects/building-an-aws-batch-pipeline).
 
 ## Milestone 1: Provision Resources using CloudFormation
 - Provisioned an S3 data lake bucket, Aurora MySQL instance, and a Step Function using CloudFormation.
